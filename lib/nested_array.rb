@@ -16,9 +16,6 @@ CONVENTIONAL_PRODUCE = [
   "Eggplant"
 ]
 
-puts ORGANIC_PRODUCE.sort
-
-puts CONVENTIONAL_PRODUCE.sort
 
 def assembled_matrix
   # Build an array that contains both of the above arrays
