@@ -17,6 +17,7 @@ CONVENTIONAL_PRODUCE = [
 ]
 
 puts ORGANIC_PRODUCE.sort
+
 puts CONVENTIONAL_PRODUCE.sort
 
 def assembled_matrix
